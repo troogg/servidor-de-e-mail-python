@@ -4,4 +4,4 @@ python:
 before_script:
 - cd src
 script:
-- python testeMSM.py
+- python testeMSN.py
